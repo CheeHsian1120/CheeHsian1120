@@ -2,9 +2,11 @@
 🎓 **Data Science Student @ Monash University**
 
 ## 🛠️ Tech Stack & Skills
-*   **Database Engineering:** Oracle SQL, MongoDB, Relational Algebra, 3NF Normalization
-*   **Data Science & Analytics:** R, Python
-*   **Tools:** Git, GitHub Copilot
+**Programming Languages:**
+Python, Java, R, SQL
+
+**Tools & Technologies:**
+MongoDB, Oracle Database, Git, GitHub, GitLab, Jupyter Notebook, LaTeX, Bash, HTML
 
 ---
 
