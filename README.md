@@ -1,9 +1,9 @@
 # Hi there, I'm Tay Chee Hsian 👋
-🎓 **Data Science Student @ Monash University**
+🎓 **Data Science Student @ Monash University Malaysia**
 
 ## 🛠️ Tech Stack & Skills
 **Programming Languages:**
-Python, Java, R, SQL
+Python, R, SQL, Java
 
 **Tools & Technologies:**
 MongoDB, Oracle Database, Git, GitHub, GitLab, Jupyter Notebook, LaTeX, Bash, HTML
@@ -18,6 +18,12 @@ MongoDB, Oracle Database, Git, GitHub, GitLab, Jupyter Notebook, LaTeX, Bash, HT
     *   Architected a relational database for a Pay-As-You-Dump system. Showcases rigorous conceptual modeling (ERD) and deep data normalization (UNF to 3NF).
 *   🔗 [**Part 2: Logistics Database Implementation & NoSQL**](https://github.com/CheeHsian1120/BigRig-Movers-Database-Project.git)
     *   Engineered complex SQL transactional DML, multi-table queries, and orchestrated data migration from Oracle RDBMS to MongoDB using JSON.
+ 
+### 📈 Data Science & Business Analytics
+*Demonstrating data pipeline development and exploratory analytics across R and Python.*
+* 🔗 [**Superstore Retail Analytics**](https://github.com/CheeHsian1120/Superstore-Retail-Analytics.git)
+    * Developed a cross-ecosystem retail analytics pipeline in **R (dplyr)** and **Python (pandas)** to evaluate global sales volatility, audit logistics efficiency, and expose operational bottlenecks.
+    * Engineered a discount compliance outlier algorithm using sub-category median baselines and built algorithmic profit tracking loops to model order-prioritization strategies.
  
 ### 📐 Software Engineering & Architecture
 *   🔗 [**Winter Survival: Object-Oriented Game Architecture (Java)**](https://github.com/CheeHsian1120/Winter-Survival.git)
