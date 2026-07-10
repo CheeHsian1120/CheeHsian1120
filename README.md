@@ -21,9 +21,14 @@ MongoDB, Oracle Database, Git, GitHub, GitLab, Jupyter Notebook, LaTeX, Bash, HT
  
 ### 📈 Data Science & Business Analytics
 *Demonstrating data pipeline development and exploratory analytics across R and Python.*
-* 🔗 [**Superstore Retail Analytics**](https://github.com/CheeHsian1120/Superstore-Retail-Analytics.git)
-    * Developed a cross-ecosystem retail analytics pipeline in **R (dplyr)** and **Python (pandas)** to evaluate global sales volatility, audit logistics efficiency, and expose operational bottlenecks.
-    * Engineered a discount compliance outlier algorithm using sub-category median baselines and built algorithmic profit tracking loops to model order-prioritization strategies.
+* 🔗 [**Predictive Risk Underwriting: Lending Club Default Analysis**](https://github.com/CheeHsian1120/Lending-Club-Default-Prediction.git)
+    * Developed an end-to-end machine learning pipeline in **Python** to predict loan defaults and mitigate capital erosion for investors. 
+    * Utilized **LightGBM** to handle severe class imbalances and engineered core business features like Loan-to-Income (LTI) ratios while systematically pruning data leakage variables.
+    * Commercially optimized the model by actively adjusting decision thresholds to 20%, achieving an **89% precision** rate for approved loans in a risk-averse credit environment.
+* 🔗 [**Superstore Retail Analytics & Macroeconomic Data Story**](https://github.com/CheeHsian1120/Superstore-Retail-Analytics)
+    * Developed a cross-ecosystem analytics pipeline using **R (dplyr)** and **Python (pandas)** to diagnose severe, non-seasonal technology sales volatility.
+    * Engineered a complete macroeconomic data story and an interactive **R Shiny Dashboard**, cross-validating internal transactional records against external US Federal Reserve Economic Data (FRED) such as Consumer Sentiment [UMCSENT] and Freight Index [TSIFRGHT].
+    * Statistically disproved standard managerial excuses to expose an internal cycle of panic-discounting, while retaining algorithmic backend models like a 1.5x median discount outlier detector and cumulative profit tracking loops.
  
 ### 📐 Software Engineering & Architecture
 *   🔗 [**Winter Survival: Object-Oriented Game Architecture (Java)**](https://github.com/CheeHsian1120/Winter-Survival.git)
