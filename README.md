@@ -2,11 +2,38 @@
 🎓 **Data Science Student @ Monash University Malaysia**
 
 ## 🛠️ Tech Stack & Skills
-**Programming Languages:**
-Python, R, SQL, Java
+**Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools & Technologies:**
-MongoDB, Oracle Database, Git, GitHub, GitLab, Jupyter Notebook, LaTeX, Bash, HTML
+**Tools & Technologies:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-7CB5EC?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F00000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TopoJSON](https://img.shields.io/badge/TopoJSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS ParallelCluster](https://img.shields.io/badge/AWS_ParallelCluster-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 ---
 
@@ -29,6 +56,12 @@ MongoDB, Oracle Database, Git, GitHub, GitLab, Jupyter Notebook, LaTeX, Bash, HT
     * Developed a cross-ecosystem analytics pipeline using **R (dplyr)** and **Python (pandas)** to diagnose severe, non-seasonal technology sales volatility.
     * Engineered a complete macroeconomic data story and an interactive **R Shiny Dashboard**, cross-validating internal transactional records against external US Federal Reserve Economic Data (FRED) such as Consumer Sentiment [UMCSENT] and Freight Index [TSIFRGHT].
     * Statistically disproved standard managerial excuses to expose an internal cycle of panic-discounting, while retaining algorithmic backend models like a 1.5x median discount outlier detector and cumulative profit tracking loops.
+
+### 🤖 Artificial Intelligence & Algorithms
+*Demonstrating the rigorous application of theoretical computer science concepts—graph traversal, state-space search, and game theory.*
+*   🔗 [**Pacman: Autonomous Search & Adversarial AI**](https://github.com/CheeHsian1120/Pac-Man)
+    *   Developed an intelligent agent capable of autonomous pathfinding and real-time adversarial decision-making within a dynamic grid environment.
+    *   Engineered custom heuristics using **Minimum Spanning Trees (Prim's Algorithm)** and exact maze distances to aggressively guide search frontiers, solving TSP-equivalent multi-point routing.
  
 ### 📐 Software Engineering & Architecture
 *   🔗 [**Winter Survival: Object-Oriented Game Architecture (Java)**](https://github.com/CheeHsian1120/Winter-Survival.git)
