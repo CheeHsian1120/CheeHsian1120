@@ -56,12 +56,26 @@
     * Developed a cross-ecosystem analytics pipeline using **R (dplyr)** and **Python (pandas)** to diagnose severe, non-seasonal technology sales volatility.
     * Engineered a complete macroeconomic data story and an interactive **R Shiny Dashboard**, cross-validating internal transactional records against external US Federal Reserve Economic Data (FRED) such as Consumer Sentiment [UMCSENT] and Freight Index [TSIFRGHT].
     * Statistically disproved standard managerial excuses to expose an internal cycle of panic-discounting, while retaining algorithmic backend models like a 1.5x median discount outlier detector and cumulative profit tracking loops.
+ 
+### 📊 Data Visualisation
+*Demonstrating advanced narrative storytelling and visual hierarchy using Tableau.*
+*   🔗 [**Australia's Household Technology Adoption**](https://public.tableau.com/views/Assignment1_17862031931560/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    *   **Narrative Structure & Shneiderman's Mantra:** Structured an author-driven narrative flow applying the "Overview first, details on demand" principle, transitioning smoothly from macro-level connectivity trends (the NBN market crossover) to the micro-level impacts of digital weaponization and financial fraud
+    *   **Gestalt Principles & Pre-Attentive Processing:** Applied the Gestalt principles of proximity and similarity to logically group complex demographic data. Utilized pre-attentive attributes (high-contrast color and sizing) to establish a strict visual hierarchy, instantly drawing the viewer's eye to the 31% digital exclusion rate in the lowest income quintile
+    *   **Data-Ink Maximization & Idiom Selection:** Minimized chartjunk to maintain a high data-ink ratio across advanced visual idioms. Selected appropriate variance charts and mapped sequential color palettes to severity, effectively exposing explosive adoption surges in digital lotteries and the $49.8 million financial vulnerability of the 65+ demographic
 
 ### 🤖 Artificial Intelligence & Algorithms
 *Demonstrating the rigorous application of theoretical computer science concepts—graph traversal, state-space search, and game theory.*
 *   🔗 [**Pacman: Autonomous Search & Adversarial AI**](https://github.com/CheeHsian1120/Pac-Man)
     *   Developed an intelligent agent capable of autonomous pathfinding and real-time adversarial decision-making within a dynamic grid environment.
     *   Engineered custom heuristics using **Minimum Spanning Trees (Prim's Algorithm)** and exact maze distances to aggressively guide search frontiers, solving TSP-equivalent multi-point routing.
+
+### ⚡ Parallel Computing
+*Benchmarking algorithmic efficiency, multi-core scalability, and network communication latency across HPC environments.*
+*   🔗 [**Parallel Computing**](https://github.com/CheeHsian1120/Parallel-Computing)
+    *   Engineered lock-free **POSIX Threads** and optimized **OpenMP** shared-memory architectures, eliminating Mutex overhead and achieving a 15.75x speedup on 32-core systems.
+    *   Implemented block-cyclic partitioning and zero-sorting reductions using **Open MPI**, analyzing physical network switch saturation limits against theoretical scaling curves (Extended Amdahl's Law).
+    *   Architected a scalable **Hybrid (MPI + OpenMP)** network topology for an EV charging simulation, combining 2D Cartesian Meshes for local $O(1)$ probing with Star Topologies for global routing on CAAS and AWS clusters.
  
 ### 📐 Software Engineering & Architecture
 *   🔗 [**Winter Survival: Object-Oriented Game Architecture (Java)**](https://github.com/CheeHsian1120/Winter-Survival.git)
