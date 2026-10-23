@@ -45,7 +45,7 @@
 *   🔗 [**Part 2: Logistics Database Implementation & NoSQL**](https://github.com/CheeHsian1120/BigRig-Movers-Database-Project.git)
     *   Engineered complex SQL transactional DML, multi-table queries, and orchestrated data migration from Oracle RDBMS to MongoDB using JSON.
  
-### 📈 Data Science & Business Analytics
+### 📈 Data Science & Data Analytics
 *Demonstrating data pipeline development and exploratory analytics across R and Python.*
 * 🔗 [**Predictive Risk Underwriting: Lending Club Default Analysis**](https://github.com/CheeHsian1120/Lending-Club-Default-Prediction.git)
     * Developed an end-to-end machine learning pipeline in **Python** to predict loan defaults and mitigate capital erosion for investors. 
