@@ -57,7 +57,7 @@
     * Statistically disproved standard managerial excuses to expose an internal cycle of panic-discounting, while retaining algorithmic backend models like a 1.5x median discount outlier detector and cumulative profit tracking loops.
  
 ### 📊 Data Visualisation
-*Demonstrating advanced narrative storytelling and visual hierarchy using Tableau.*
+*Demonstrating advanced narrative storytelling and visual hierarchy using Tableau and Vega-Lite.*
 *   🔗 [**Australia's Household Technology Adoption**](https://public.tableau.com/views/Assignment1_17862031931560/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     *   **Narrative Structure & Shneiderman's Mantra:** Structured an author-driven narrative flow applying the "Overview first, details on demand" principle, transitioning smoothly from macro-level connectivity trends (the NBN market crossover) to the micro-level impacts of digital weaponization and financial fraud
     *   **Gestalt Principles & Pre-Attentive Processing:** Applied the Gestalt principles of proximity and similarity to logically group complex demographic data. Utilized pre-attentive attributes (high-contrast color and sizing) to establish a strict visual hierarchy, instantly drawing the viewer's eye to the 31% digital exclusion rate in the lowest income quintile
