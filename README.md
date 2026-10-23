@@ -70,8 +70,9 @@
 ### 🤖 Artificial Intelligence & Algorithms
 *Demonstrating the rigorous application of theoretical computer science concepts—graph traversal, state-space search, and game theory.*
 *   🔗 [**Pacman**](https://github.com/CheeHsian1120/Pac-Man)
-    *   Developed an intelligent agent capable of autonomous pathfinding and real-time adversarial decision-making within a dynamic grid environment.
-    *   Engineered custom heuristics using **Minimum Spanning Trees (Prim's Algorithm)** and exact maze distances to aggressively guide search frontiers, solving TSP-equivalent multi-point routing.
+    *   Developed an intelligent agent capable of autonomous pathfinding, real-time adversarial decision-making, and reinforcement learning within a dynamic grid environment.
+    *   Engineered custom heuristics using **Minimum Spanning Trees (Prim's Algorithm)** and **Minimax** with **Alpha-Beta pruning** to optimize TSP-equivalent multi-point routing and adversarial evasion.
+    *   Implemented **Markov Decision Processes (MDP)** via **Value Iteration** and model-free **Q-Learning with Epsilon-Greedy Exploration** to compute optimal policies and maximize cumulative rewards under uncertainty.
 
 ### ⚡ Parallel Computing
 *Benchmarking algorithmic efficiency, multi-core scalability, and network communication latency across HPC environments.*
