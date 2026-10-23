@@ -69,7 +69,7 @@
 
 ### 🤖 Artificial Intelligence & Algorithms
 *Demonstrating the rigorous application of theoretical computer science concepts—graph traversal, state-space search, and game theory.*
-*   🔗 [**Pacman: Autonomous Search & Adversarial AI**](https://github.com/CheeHsian1120/Pac-Man)
+*   🔗 [**Pacman**](https://github.com/CheeHsian1120/Pac-Man)
     *   Developed an intelligent agent capable of autonomous pathfinding and real-time adversarial decision-making within a dynamic grid environment.
     *   Engineered custom heuristics using **Minimum Spanning Trees (Prim's Algorithm)** and exact maze distances to aggressively guide search frontiers, solving TSP-equivalent multi-point routing.
 
